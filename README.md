@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello World 👋
 
+I'm Liam Rogers, a robotics graduate from UWE with previous experience in software development from Bristol UK. 
+
+- 🔭 I’m currently working on implementing software to my robot, with my current plan to to teach it to track an object of interest.
+- 🌱 I’m currently learning the ins and outs of the OpenCV library to aid in increasing the funtionality of my robot.
+- 📫 How to reach me: Email: mailto:liamrogersuk@gmail.com
 <!--
 **EasierVast/EasierVast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
