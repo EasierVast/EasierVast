@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Liam Rogers, a robotics graduate from UWE with previous experience in software development from Bristol UK. 
+I'm Liam Rogers, a robotics graduate from UWE with previous experience in software development from Bristol UK. While looking for work I am attempting to expand my skill set on progrmaming.
 
 - 🔭 I’m currently working on implementing software to my robot, with my current plan to to teach it to track an object of interest.
 - 🌱 I’m currently learning the ins and outs of the OpenCV library to aid in increasing the funtionality of my robot.
